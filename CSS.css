@@ -1,0 +1,15 @@
+header {
+    background-color: bisque;
+    color: black;
+    margin:0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+    .icono {
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        
+    }
