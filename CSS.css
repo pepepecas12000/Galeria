@@ -46,7 +46,52 @@ header {
 }
 #te {
     padding-left: 3%;
-    padding-right: 3%;
+    
+    display: flex;
+    padding-bottom: 3%;
+}
+#lorem{
+    display: flex;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 30px;
+    padding: 0px 3% 0 3%;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#diu{
+    width: 350px;
+    height: auto;
+}
+.con_dos{
+    display: flex;
+     justify-content: center; 
+     align-items: center;
+     margin: 4%;
+}
+.mar_dos{
+    border: 6px solid rgb(244, 3, 3);
+    border-radius: 15px;
+    width: auto;
+        height: auto;
+        display: flex; 
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 2% 2% 2% 2%;
+        
+}
+.den_mar2{
+    width: 300px;
+        height: 300px; 
+        
+        border-radius: 5%;
+        
+        
+}
+#au{
+    font-size:40px;
+    margin: 10 0 0 0 ;
 }
     body{
         margin: 0;
